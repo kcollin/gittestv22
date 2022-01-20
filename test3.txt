@@ -1,5 +1,3 @@
 Dette er enda en fil
 
-Noe mer tekst på en torsdag
-
-Evil line 2
+More changes
