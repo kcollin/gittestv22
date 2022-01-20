@@ -1,20 +1,7 @@
-Dette er enda en fil
+Noe mer tekst i dag kommer her
+Her er det ingen konflikt
+Noe mer tekst i dag kommer her
+Noe mer tekst i dag kommer her
+Noe mer tekst i dag kommer her
 
-Dette er enda en fil
-Dette er enda en fil
-Dette er enda en fil
-Dette er enda en fil
-Herf er det noe nytt
-Dette er enda en fil
-Dette er enda en fil
-tekst 4 heter filen
-tekst 4 heter filen
-tekst 4 heter filentekst 4 heter filen
-tekst 4 heter filen
-tekst 4 heter filen
-tekst 4 heter filen
-tekst 4 heter filen
-tekst 4 heter filen
-
-tekst 4 heter filen
-Ingenting nytt her
+Dette er riktig kode
